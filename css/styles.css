@@ -58,6 +58,7 @@ hr{
 
 
 .top-container{
+    width: 100%;
     background-color:#e3fdfd;
     position: relative;
     padding-top: 60px;
