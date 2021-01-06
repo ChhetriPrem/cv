@@ -1,0 +1,238 @@
+body{
+    margin: 0;
+    
+    text-align: center;
+    font-family: 'Merriweather', serif;
+}
+
+h1{
+    margin-top: 70px;
+    margin-bottom: 0;
+    font-family: 'Sacramento', cursive;
+    font-size: 80px;
+    color: #66BFBF;
+
+    }
+h2{
+    font-weight:bold;
+    font-size: 35px;
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+
+    
+        
+}
+
+h3{
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+
+    
+}
+
+hr{
+    border-style: dotted none none none;
+    border-width: 6px thick;
+    width: 5%;
+    color: #eaf6f6;
+
+
+}
+
+.profilepic{
+    height: 10%;
+    width: 10%;
+}
+
+
+.top-container{
+    background-color:#e3fdfd;
+    position: relative;
+    padding-top: 60px;
+    
+    
+
+}
+.mid-container{
+    padding: 50px;
+
+}
+
+.bot-container{
+    background-color: #66bfbf;
+    padding: 30px;
+    padding-top: 40px;
+    
+}
+
+
+.top-cloud{
+    position: absolute;
+    right: 250px;
+    top: 50px;
+}
+
+.bot-cloud{
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+
+}
+
+.code{
+    
+    height: 30%;
+    width: 30%;
+    float: left;
+    margin-right: 30px;
+}
+
+.animation{
+    height: 30%;
+    width: 30%;
+    border-radius: 100%;
+    float:right;
+    margin-left: 30px;
+
+}
+
+.skills{
+
+    margin-top: 100px;
+    
+    
+}
+
+.skill-row{
+    padding: 30px;
+
+    width: 50%;
+    line-height: 2;
+    
+    
+    margin: auto;
+    margin-top: 60px;
+    text-align: left;
+    
+
+
+}
+
+.para{
+    margin-top: 20px;
+    font-size: 2rem; 
+    font-family: 'Montserrat', sans-serif;
+    color: #66BFBF;
+    font-weight: normal;
+    height: 2;
+
+}
+
+.footer-link{
+    padding: 15px;
+    color: #11999e;
+    text-decoration: none;
+    font-family: 'Montserrat', sans-serif;
+}
+
+.pro{
+    text-decoration: underline;
+}
+
+.animi{
+    height: 2;
+}
+
+.BUTTON_NJF {
+    background: #34D6D6;
+    background-image: -webkit-linear-gradient(top, #34D6D6, #6CC9C9);
+    background-image: -moz-linear-gradient(top, #34D6D6, #6CC9C9);
+    background-image: -ms-linear-gradient(top, #34D6D6, #6CC9C9);
+    background-image: -o-linear-gradient(top, #34D6D6, #6CC9C9);
+    background-image: -webkit-gradient(to bottom, #34D6D6, #6CC9C9);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    /* height: 1px; */
+    /* line-height: 50px; */
+    font-family: 'Montserrat', sans-serif;
+    margin-top: 30px;
+    
+    color: white ;
+    width: 100px;
+    font-size: 15px;
+    font-weight: 100;
+    padding: 20px;
+    -webkit-box-shadow: 1px 1px 20px 0 #000000;
+    -moz-box-shadow: 1px 1px 20px 0 #000000;
+    box-shadow: 1px 1px 20px 0 #000000;
+    text-shadow: 1px 1px 20px #000000;
+    border: solid #337FED 1px;
+    text-decoration: none;
+    display: inline-block;
+    cursor: pointer;
+    text-align: center;
+    /* padding-top: 10px;
+    padding-bottom: 40px; */
+    white-space: nowrap;
+ }
+ 
+ .BUTTON_NJF:hover {
+    border: solid #80dae6 1px;
+    background: #71C9CE;
+    background-image: -webkit-linear-gradient(top, #71C9CE, #71C9CE);
+    background-image: -moz-linear-gradient(top, #71C9CE, #71C9CE);
+    background-image: -ms-linear-gradient(top, #71C9CE, #71C9CE);
+    background-image: -o-linear-gradient(top, #71C9CE, #71C9CE);
+    background-image: -webkit-gradient(to bottom, #71C9CE, #71C9CE);
+    -webkit-border-radius: 20px;
+    -moz-border-radius: 20px;
+    border-radius: 20px;
+    text-decoration: none;
+ }
+
+ .copyright{
+     color: #eaf6f6;
+ }
+
+ .contact-me{
+     margin-top: 100px;
+ }
+
+.profile{
+    margin-bottom: 100px;
+}
+.insta{
+    
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    position: relative;
+    top: 5px;
+    left: 12px;
+}
+
+.yt{
+    
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    position: relative;
+    top: 5px;
+    left: 12px;
+}
+
+.tw{
+    
+    height: 20px;
+    width: 20px;
+    border-radius: 100%;
+    position: relative;
+    top: 5px;
+    left: 12px;
+    
+}
+
+#twitter{
+    margin-right: 10px;
+}
